@@ -10,9 +10,9 @@
   <a href="https://github.com/capcodigital/devops-maturity">
     <img src="https://raw.githubusercontent.com/capcodigital/.github/master/images/capco.jpeg" alt="Logo" height="160px">
   </a>
-  <h3 align="center">[PROJECT_TITLE]</h3>
+  <h3 align="center">DevOps Maturity - Best Practice Guidelines</h3>
   <p align="center">
-    DevOps Maturity - Best Practice Guidelines
+    The purpose of this repository is to provide DevOps Best Practice Guidelines which can be referenced from Capco's DevOps Maturity Assessment dashboard.
     <br />
     <a href="https://github.com/capcodigital/devops-maturity"><strong>Explore the docs »</strong></a>
     <br />

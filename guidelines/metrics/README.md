@@ -1,3 +1,4 @@
+[home](../README.md)
 # Metrics
 
 DORA (DevOps Research and Assessment) metrics play a pivotal role in software development by offering quantifiable measurements of DevOps performance. These metrics serve as benchmarks, providing visibility into the entire development pipeline, enabling continuous improvement, and guiding resource allocation. They also align software development practices with strategic goals, mitigate risks by identifying issues early, and enhance customer satisfaction through efficient and reliable delivery.

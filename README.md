@@ -51,11 +51,14 @@ The purpose of this repository is to provide DevOps Best Practice Guidelines whi
 
 * [Culture](guidelines/culture/README.md)
 * [Continuous Delivery](guidelines/continuous-delivery/README.md)
-
+* [Development Practices](guidelines/development-practices/README.md)
+* [Infrastructure](guidelines/infrastructure/README.md)
+* [Metrics](guidelines/metrics/README.md)
+* [Release Management](guidelines/release-management/README.md)
+* [Security](guidelines/security/README.md)
+* [Test Automation](guidelines/test-automation/README.md)
 
 ## Built With
-
-Further logos should be inserted to highlight the specific technologies used to create the solution from [here](https://github.com/Ileriayo/markdown-badges).
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -65,32 +68,11 @@ To get a local copy up and running follow these simple steps.
 
 ### Local Dependencies
 
-A number of local dependencies are required.  To review the local dependencies:
-
-* When using MacOS run `make requirements`
-* otherwise run `cat Brewfile` to inspect the requirements
-
-If additional dependencies are required they should be added to `Brewfile`, for more details please review the official `brew bundle` documentation [here](https://github.com/Homebrew/homebrew-bundle).
+None
 
 ### Local Setup
 
-This repo follows the principle of minimal manual setup of the local development environment.
-
- A `make` target has been provided for simplicity ```make init```, the `make` file can be inspected for more details.
-
- ```shell
-# use the folder name as the repo name
-make init
-
-# explicitly pass in the repo name (e.g. my-service)
-make repo=my-service init
-```
-
-If at any point the repo name needs to be changed then the `make rename` target can be called.
-
-```shell
-make repo=my-service rename
-```
+Clone repo
 
 ## Usage
 
@@ -100,7 +82,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/capcodigital/devops-maturity/issues) for a list of proposed features (and known issues).
+N/A
 
 ## Contributing
 

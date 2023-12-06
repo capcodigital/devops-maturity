@@ -1,4 +1,4 @@
-# [Culture](../culture.md) - Team Structure
+# [Culture](README.md) - Team Structure
 
 
 ## Cross Functional Teams

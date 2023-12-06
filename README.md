@@ -7,21 +7,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/capcodigital/oss-template">
+  <a href="https://github.com/capcodigital/devops-maturity">
     <img src="https://raw.githubusercontent.com/capcodigital/.github/master/images/capco.jpeg" alt="Logo" height="160px">
   </a>
   <h3 align="center">[PROJECT_TITLE]</h3>
   <p align="center">
-    [PROJECT_DESCRIPTION]
+    DevOps Maturity - Best Practice Guidelines
     <br />
-    <a href="https://github.com/capcodigital/oss-template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/capcodigital/devops-maturity"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/capcodigital/oss-template">View Demo</a>
+    <a href="https://github.com/capcodigital/devops-maturity">View Demo</a>
     ·
-    <a href="https://github.com/capcodigital/oss-template/issues">Report Bug</a>
+    <a href="https://github.com/capcodigital/devops-maturity/issues">Report Bug</a>
     ·
-    <a href="https://github.com/capcodigital/oss-template/issues">Request Feature</a>
+    <a href="https://github.com/capcodigital/devops-maturity/issues">Request Feature</a>
   </p>
 </p>
 
@@ -47,10 +47,11 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-The repo description should be added here and describe at least:
+The purpose of this repository is to provide DevOps Best Practice Guidelines which can be referenced from Capco's DevOps Maturity Assessment dashboard.
 
-* Purpose of the repo e.g. problem/opportunity statement
-* High level description of the overall approach/solution
+* [Culture](guidelines/culture/README.md)
+* [Continuous Delivery](guidelines/continuous-delivery/README.md)
+
 
 ## Built With
 
@@ -99,7 +100,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/capcodigital/oss-template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/capcodigital/devops-maturity/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
@@ -124,14 +125,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 * [DocToc](https://github.com/thlorenz/doctoc)
 
-[contributors-shield]: https://img.shields.io/github/contributors/capcodigital/oss-template.svg?style=for-the-badge
-[contributors-url]: https://github.com/capcodigital/oss-template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/capcodigital/oss-template.svg?style=for-the-badge
-[forks-url]: https://github.com/capcodigital/oss-template/network/members
-[stars-shield]: https://img.shields.io/github/stars/capcodigital/oss-template.svg?style=for-the-badge
-[stars-url]: https://github.com/capcodigital/oss-template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/capcodigital/oss-template.svg?style=for-the-badge
-[issues-url]: https://github.com/capcodigital/oss-template/issues
-[license-shield]: https://img.shields.io/github/license/capcodigital/oss-template.svg?style=for-the-badge
-[license-url]: https://github.com/capcodigital/oss-template/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/capcodigital/devops-maturity.svg?style=for-the-badge
+[contributors-url]: https://github.com/capcodigital/devops-maturity/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/capcodigital/devops-maturity.svg?style=for-the-badge
+[forks-url]: https://github.com/capcodigital/devops-maturity/network/members
+[stars-shield]: https://img.shields.io/github/stars/capcodigital/devops-maturity.svg?style=for-the-badge
+[stars-url]: https://github.com/capcodigital/devops-maturity/stargazers
+[issues-shield]: https://img.shields.io/github/issues/capcodigital/devops-maturity.svg?style=for-the-badge
+[issues-url]: https://github.com/capcodigital/devops-maturity/issues
+[license-shield]: https://img.shields.io/github/license/capcodigital/devops-maturity.svg?style=for-the-badge
+[license-url]: https://github.com/capcodigital/devops-maturity/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png

@@ -2,6 +2,7 @@
 # [Continous Delivery](README.md) - Deployment Process
 
 **Version Deployment Patterns**
+
 When deploying artefacts in the ecosystem we can find the following patterns:
 
 **Unique Version pattern**
@@ -17,6 +18,7 @@ When performing production deployments, there is some room for temporary coexist
 Versions of a microservice can coexist at a given point of time. Using traffic shaping techniques, the different types of traffic (production, e2e-test, component-test) can be directed to the right versions of the microservice. This is the preferred pattern.
 
 Example utilising Kubernetes:
+
 ![Example utilising Kubernetes](../../images/deployment-process-kubernetes.png)
 
 

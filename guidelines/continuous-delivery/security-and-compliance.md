@@ -2,11 +2,13 @@
 # [Continous Delivery](README.md) - Security & Compliance
 
 **Shift left**
+
 In traditional software development you have the following 4 stages: design, develop, test and deploy. Which means testing typically happens after the development has been completed which therefore means that team will only discover significant flaws late in the process often architectural flaws late in the process which at that stage is expensive to fix. 
 
 Shift left is the practice intended to find and prevent defects early in the software delivery process. The idea is to improve quality by moving tasks more to the left (earlier in the process) as possible.
 
-How to implement: 
+How to implement:
+
 **Develop security approved tools**
 
 Providing developers with preapproved libraries and tools with input of InfoSec can help standardise the development practices within the organisation. Using tools like e.g. NexusIQ allows the organisation to flag libraries that have vulnerabilities or prevent a developer from accidentally introducing breaches within code.

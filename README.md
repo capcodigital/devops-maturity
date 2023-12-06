@@ -7,21 +7,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/capcodigital/oss-template">
+  <a href="https://github.com/capcodigital/devops-maturity">
     <img src="https://raw.githubusercontent.com/capcodigital/.github/master/images/capco.jpeg" alt="Logo" height="160px">
   </a>
-  <h3 align="center">[PROJECT_TITLE]</h3>
+  <h3 align="center">DevOps Maturity - Best Practice Guidelines</h3>
   <p align="center">
-    [PROJECT_DESCRIPTION]
+    The purpose of this repository is to provide DevOps Best Practice Guidelines which can be referenced from Capco's DevOps Maturity Assessment dashboard.
     <br />
-    <a href="https://github.com/capcodigital/oss-template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/capcodigital/devops-maturity"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/capcodigital/oss-template">View Demo</a>
+    <a href="https://github.com/capcodigital/devops-maturity">View Demo</a>
     ·
-    <a href="https://github.com/capcodigital/oss-template/issues">Report Bug</a>
+    <a href="https://github.com/capcodigital/devops-maturity/issues">Report Bug</a>
     ·
-    <a href="https://github.com/capcodigital/oss-template/issues">Request Feature</a>
+    <a href="https://github.com/capcodigital/devops-maturity/issues">Request Feature</a>
   </p>
 </p>
 
@@ -47,14 +47,18 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-The repo description should be added here and describe at least:
+The purpose of this repository is to provide DevOps Best Practice Guidelines which can be referenced from Capco's DevOps Maturity Assessment dashboard.
 
-* Purpose of the repo e.g. problem/opportunity statement
-* High level description of the overall approach/solution
+* [Culture](guidelines/culture/README.md)
+* [Continuous Delivery](guidelines/continuous-delivery/README.md)
+* [Development Practices](guidelines/development-practices/README.md)
+* [Infrastructure](guidelines/infrastructure/README.md)
+* [Metrics](guidelines/metrics/README.md)
+* [Release Management](guidelines/release-management/README.md)
+* [Security](guidelines/security/README.md)
+* [Test Automation](guidelines/test-automation/README.md)
 
 ## Built With
-
-Further logos should be inserted to highlight the specific technologies used to create the solution from [here](https://github.com/Ileriayo/markdown-badges).
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -64,32 +68,11 @@ To get a local copy up and running follow these simple steps.
 
 ### Local Dependencies
 
-A number of local dependencies are required.  To review the local dependencies:
-
-* When using MacOS run `make requirements`
-* otherwise run `cat Brewfile` to inspect the requirements
-
-If additional dependencies are required they should be added to `Brewfile`, for more details please review the official `brew bundle` documentation [here](https://github.com/Homebrew/homebrew-bundle).
+None
 
 ### Local Setup
 
-This repo follows the principle of minimal manual setup of the local development environment.
-
- A `make` target has been provided for simplicity ```make init```, the `make` file can be inspected for more details.
-
- ```shell
-# use the folder name as the repo name
-make init
-
-# explicitly pass in the repo name (e.g. my-service)
-make repo=my-service init
-```
-
-If at any point the repo name needs to be changed then the `make rename` target can be called.
-
-```shell
-make repo=my-service rename
-```
+Clone repo
 
 ## Usage
 
@@ -99,7 +82,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/capcodigital/oss-template/issues) for a list of proposed features (and known issues).
+N/A
 
 ## Contributing
 
@@ -124,14 +107,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 * [DocToc](https://github.com/thlorenz/doctoc)
 
-[contributors-shield]: https://img.shields.io/github/contributors/capcodigital/oss-template.svg?style=for-the-badge
-[contributors-url]: https://github.com/capcodigital/oss-template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/capcodigital/oss-template.svg?style=for-the-badge
-[forks-url]: https://github.com/capcodigital/oss-template/network/members
-[stars-shield]: https://img.shields.io/github/stars/capcodigital/oss-template.svg?style=for-the-badge
-[stars-url]: https://github.com/capcodigital/oss-template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/capcodigital/oss-template.svg?style=for-the-badge
-[issues-url]: https://github.com/capcodigital/oss-template/issues
-[license-shield]: https://img.shields.io/github/license/capcodigital/oss-template.svg?style=for-the-badge
-[license-url]: https://github.com/capcodigital/oss-template/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/capcodigital/devops-maturity.svg?style=for-the-badge
+[contributors-url]: https://github.com/capcodigital/devops-maturity/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/capcodigital/devops-maturity.svg?style=for-the-badge
+[forks-url]: https://github.com/capcodigital/devops-maturity/network/members
+[stars-shield]: https://img.shields.io/github/stars/capcodigital/devops-maturity.svg?style=for-the-badge
+[stars-url]: https://github.com/capcodigital/devops-maturity/stargazers
+[issues-shield]: https://img.shields.io/github/issues/capcodigital/devops-maturity.svg?style=for-the-badge
+[issues-url]: https://github.com/capcodigital/devops-maturity/issues
+[license-shield]: https://img.shields.io/github/license/capcodigital/devops-maturity.svg?style=for-the-badge
+[license-url]: https://github.com/capcodigital/devops-maturity/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png

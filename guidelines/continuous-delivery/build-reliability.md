@@ -22,4 +22,3 @@ Often issues related to configuration come from a missing configuration file or 
 **Implement Alerts**
 
 By implementing ChatOps you can reduce the amount of build failures that happen for a given solution. ChatOps allows you to alert and send targeted communications to relevant individuals. Often an alert gets configured for failing builds in a shared communication channel (teams/slack), this allows a quick feedback loop to inform the developers when something isn’t going as expected.
-

@@ -8,7 +8,7 @@ APIs are a critical part of modern mobile, SaaS and web applications and can be 
 
 **OWASP**
 
-The OWASP® Foundation works to improve the security of software through its community-led OSS projects. Here API Security focuses on strategies and solutions to understand and mitigate the unique vulnerabilities and security risks of Application Programming Interfaces (APIs). [OWASP Top Ten | OWASP Foundation](https://owasp.org/www-project-top-ten/)
+The OWASP® Foundation works to improve the security of software through its community-led OSS projects. Here API Security focuses on strategies and solutions to understand and mitigate the unique vulnerabilities and security risks of Application Programming Interfaces (APIs). [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
 
 **DAST**
 

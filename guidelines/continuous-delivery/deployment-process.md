@@ -41,4 +41,3 @@ Rolling updates allow the following actions:
 * Promote an application from one environment to another (via container image updates)
 * Rollback to previous versions
 * Continuous Integration and Continuous Delivery of applications with zero downtime
-

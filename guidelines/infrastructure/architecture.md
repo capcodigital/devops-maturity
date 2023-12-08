@@ -17,7 +17,7 @@ Given the pros and cons of architectural archetypes, each fits a different evolu
 
 | Archetype | Pros | Cons |
 |---|---|---|
-| **Monolithic v1**<br><br>(all functionality in one application) | * Simple at first<br>* Low interprocess latencies<br>* Single codebase, one deployment unit<br>* Resource-efficient at small scales | * Coordination overhead increases as team grows<br>* Poor enforcement of modularity<br>* Poor scaling<br>* All-or-nothing deploy (downtime failures)<br>* Long build times |
+| **Monolithic v1**<br><br>(all functionality in one application) | <ul><li>Simple at first</li><li>Low interprocess latencies</li><li>Single codebase, one deployment unit</li><li>Resource-efficient at small scales</li></ul> | * Coordination overhead increases as team grows<br>* Poor enforcement of modularity<br>* Poor scaling<br>* All-or-nothing deploy (downtime failures)<br>* Long build times |
 | **Monolithic v2**<br><br>(set of monolithic tiers: frontend presentation, application server, database layer) | * Simple at first<br>* Join queries are easy<br>* Single schema deployment<br>* Resource-efficient at small scales | * Tendency for increased coupling over time<br>* Poor scaling and redundancy (all or nothing, vertical only)<br>* Difficult to tune properly<br>* All-or-nothing schema management |
 | **Microservice**<br><br>(modular, independent, graph relationship or tiers, isolated persistence) | * Each unit is simple<br>* Independent scaling and performance<br>* Independent testing and deployment<br>* Can optimally tune performance (caching, replication, etc.) | * Many cooperating units<br>* Many small repos<br>* Requires more sophisticated tooling and dependency management<br>* Network latencies |
 

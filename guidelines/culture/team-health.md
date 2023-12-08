@@ -25,7 +25,6 @@ Teams should own the failures instead of individuals
 Always considering the bigger picture
 
 
-
 ## Encourage Change
 
 In the same vein as fostering innovation and accountability at grass roots, we need to work across the wider organization to ensure they accept the fact that change is a good thing and not something to be feared
@@ -57,13 +56,11 @@ Share Lessons Learned
 When all is done, pull all the above into a blog post and a post-release report, then present them
 
 
-
 ## Good Leadership
 
 Good leaders help build great teams, great technology, and great organizations indirectly, by enabling teams to re-architect their systems and implement continuous delivery and lean management practices
 
 Transformational leadership enables the necessary practices that correlate with high performance, and it also supports effective communication and collaboration between team members in pursuit of organizational goals. Such leadership provides the foundation for a culture in which continuous experimentation and learning is part of everybody’s daily work
-
 
 
 ## Embrace Failure
@@ -87,7 +84,6 @@ This will remove the need to waste time by working on incorrect avenues and stee
 Fail Better
 
 With early and frequent failures all that is needed is to maximise the learning opportunities
-
 
 
 ## Support Trust Honesty and Transparency
@@ -131,7 +127,6 @@ Providing teams with a holistic view of how the business is changing
 Providing a view of the adoption of quality standards
 
 
-
 ## Healthy Leadership Teams
 
 Healthy leadership teams have the following characteristics:
@@ -155,7 +150,6 @@ When everyone is committed to a clear plan of action, they will be more likely t
 Focus on achieving collective Results
 
 The goal of building greater trust, conflict, commitment and accountability is one thing: the achievement of results.
-
 
 
 Approach to achieving healthy leadership teams:

@@ -11,7 +11,7 @@ Risk based testing with a focus on shift to left for early feedback is adopted f
 Two factors are used to assess the risk exposure of a test requirement, namely:
 
 1. Business Impact
-1. Likelihood of Failure 
+1. Likelihood of Failure
 
 As a result of risk-based testing, risks can be mitigated effectively, and negative business impacts can be minimized.
 

@@ -7,7 +7,7 @@ Configuration management helps engineering teams build robust and stable systems
 * Specifications of computational hardware resource allocations for CPU, RAM, etc.
 * Endpoints that specify external connections to other services, databases, or domains
 * Secrets like passwords and encryption keys
- 
+
 
 How to implement configuration management:
 

@@ -16,7 +16,7 @@ Automated testing is a great way to start weaving accessibility into your websit
 
 For accessibility testing the focus is more put on unit and integration tests. A unit test typically covers underlying APIs that plumb accessibility information or interactions to the right place. You should test APIs in isolation, calling their methods with fake data, called “inputs”. You can then assert these method calls modify the application or its state in an expected way.
 
-An example of such a test: 
+An example of such a test:
 
 ```
 it('should pass aria-label to the inner button', inject(function() {

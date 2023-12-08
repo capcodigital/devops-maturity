@@ -20,9 +20,9 @@ Dynamic application security testing (DAST) is the process of testing an applica
 
 **SAST**
 
-Static application security testing (SAST) is a type of security testing that relies on inspecting the source code of an application. In general, SAST involves looking at the ways the code is designed to pinpoint possible security flaws. 
+Static application security testing (SAST) is a type of security testing that relies on inspecting the source code of an application. In general, SAST involves looking at the ways the code is designed to pinpoint possible security flaws.
 
-With SAST, testers read the source code, they look for logical flaws, such as a loophole in data control, something that a hacker could use to gain access to the system. SAST is also known as white-box testing because the source code for the application is available and transparent. 
+With SAST, testers read the source code, they look for logical flaws, such as a loophole in data control, something that a hacker could use to gain access to the system. SAST is also known as white-box testing because the source code for the application is available and transparent.
 
 By detecting security flaws during the first stages of development – as opposed to other forms of testing right before release or in post-production – high-risk issues can be resolved quickly and without needing to break the application build. When security testing isn’t run throughout the SDLC, there’s a higher risk of allowing vulnerabilities to get through to the released application, increasing the chance of allowing hackers through the application.
 

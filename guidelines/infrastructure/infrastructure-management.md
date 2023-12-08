@@ -32,6 +32,6 @@ Benefits:
 
 * Cost reduction
 * Increase in speed of deployments
-* Reduce errors 
+* Reduce errors
 * Improve infrastructure consistency
 * Eliminate configuration drift

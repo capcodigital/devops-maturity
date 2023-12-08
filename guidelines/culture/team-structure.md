@@ -7,7 +7,6 @@
 A team of individuals who iteratively define, build, test, and deliver value to their customers E2E. These teams have the authority and accountability to manage their work, which increases productivity and accelerates time-to-market.  Cross-functional teams have all of the skills needed to get the work done, with plenty of skills overlapping to reduce the dependency on the skills and expertise of any one team member.  Work, and consequently the 'success' of the team, is the collective responsibility of all of the team members.
 
 
-
 What are the benefits of a truly cross-functional team?
 
 Getting to done – Teams that are not cross-functional at all, for example, a team purely made up of testers, will find it virtually impossible to get anything of any complexity ‘done’ (potentially shippable) in a sprint.

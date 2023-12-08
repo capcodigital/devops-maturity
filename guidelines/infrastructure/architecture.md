@@ -21,7 +21,6 @@ Given the pros and cons of architectural archetypes, each fits a different evolu
 | **Monolithic v2**<br><br>(set of monolithic tiers: frontend presentation, application server, database layer) | <ul><li>Simple at first</li><li>Join queries are easy</li><li>Single schema deployment</li><li>Resource-efficient at small scales</li></ul> | <ul><li>Tendency for increased coupling over time</li><li>Poor scaling and redundancy (all or nothing, vertical only)</li><li>Difficult to tune properly</li><li>All-or-nothing schema management</li></ul> |
 | **Microservice**<br><br>(modular, independent, graph relationship or tiers, isolated persistence) | <ul><li>Each unit is simple</li><li>Independent scaling and performance</li><li>Independent testing and deployment</li><li>Can optimally tune performance (caching, replication, etc.)</li></ul> | <ul><li>Many cooperating units</li><li>Many small repos</li><li>Requires more sophisticated tooling and dependency management</li><li>Network latencies</li></ul> |
 
- 
 
 **Common pitfalls in architecture**
 

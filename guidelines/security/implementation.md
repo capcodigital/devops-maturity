@@ -19,7 +19,7 @@ Here are some of the key advantages:
 
 In summary, FOSS scanning is a valuable practice that ensures compliance, enhances security, and reduces risks when using open-source software. It also offers efficiency gains, cost savings, and transparency, making it an essential component of modern software development and management.
 
-Example of a tool providing FOSS capabilities: [Open Source Audit Services with FossID](https://snyk.io/open-source-audit/) 
+Example of a tool providing FOSS capabilities: [Open Source Audit Services with FossID](https://snyk.io/open-source-audit/)
 
 
 **Policy as Code**
@@ -82,14 +82,14 @@ resource "aws_iam_policy" "s3_bucket_access" {
   }
 EOF
 }
- 
+
 # Attach the policy to an IAM user
 resource "aws_iam_user_policy_attachment" "s3_access_attachment" {
   policy_arn = aws_iam_policy.s3_bucket_access.arn
   user       = aws_iam_user.example_user.name
 }
 ```
- 
+
 
 In this code, we are using HashiCorp Configuration Language (HCL) to define an IAM policy in AWS that controls access to an S3 bucket. The policy as code accomplishes the following:
 

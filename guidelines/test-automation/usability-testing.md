@@ -33,6 +33,7 @@ You can try using [Simulant](https://www.npmjs.com/package/simulant), so long as
 Instead of unit testing interactions and expecting a focused element, you can write unit tests that call related API methods with static inputs, such as state variables or HTML fragments. Then you can assert those methods were called and the state changed appropriately.
 
 
+---
 **Further reading**:
 * [Writing Automated Tests for Accessibility](https://www.deque.com/blog/writing-automated-tests-accessibility/)
 * [Evaluating Web Accessibility Overview](https://www.w3.org/WAI/test-evaluate/)

@@ -49,8 +49,8 @@ Feature Branch workflow has **main** as a protected branch. All change is made t
 Once the feature has been developed, a pull request is created to trigger a code review before the feature can be merged into **main**.
 
 
+---
 **Further reading**:
-
 * [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 * [Introducing GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
 * [Gitflow workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)

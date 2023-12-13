@@ -65,6 +65,7 @@ There are 3 types of interaction which teams will face throughout their longevit
 * One team helps another team to learn or adopt new approaches for a defined period of time. The team providing the facilitation aims to make the other team self-sufficient as soon as possible, while the team receiving the facilitation has an open-minded attitude to learning
 
 
+---
 **Further reading**:
 * [How to Build a Cross-Functional Team | The Workstream](https://www.atlassian.com/work-management/project-collaboration/cross-functional-teams)
 * [Team Topologies](https://teamtopologies.com)

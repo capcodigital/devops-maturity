@@ -28,5 +28,6 @@ Your development project should use  a version control system. If not, install G
 Having configuration data organized and added to a repository enables collaboration and visibility into the system’s configuration. The popular pull request workflow that software teams use to review and edit code can then be applied to configuration data files. This helps build out an audit and accounting system. Any changes applied to the configuration must be reviewed and accepted by the team. This adds accountability and visibility into configuration changes.
 
 
+---
 **Further reading**:
 * [Configuration management: definition and benefits](https://www.atlassian.com/microservices/microservices-architecture/configuration-management)

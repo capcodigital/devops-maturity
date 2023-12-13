@@ -29,7 +29,7 @@ The bug report would need to be reviewed in order to:
 Regardless of the severity of the bug, once it has been fixed, it needs to be verified and accepted as fixed.
 The bug tracker needs to be updated to show closure.
 
-In cases
+There can be times when a fix gets rejected multiple times. This can lead to increased tension within the team and should be resolved promptly to maintain [team health](../culture/team-health.md).
 
 
 ## Defect Metrics

@@ -59,6 +59,5 @@ Domain driven design – approaches and principles
 * **Protect the domain knowledge from corruption by other domains, technical subdomains, etc**. If you find that your code is talking about two different things—e.g., the domain solution and the technical implementation—separate those components to keep the subdomains apart. This strategy tends to result in classes with single responsibilities and a terse, focused vocabulary. Put "translators" at the boundaries (anti-corruption layers) between subdomains to keep them from depending on each other’s structures unnecessarily, and also to prevent blurring of the meaning of domain terms.
 
 
-More information:
-
-[DevOps Capabilities: Loosely Coupled Architecture](https://dora.dev/devops-capabilities/technical/loosely-coupled-architecture/)
+**Further reading**:
+* [DevOps Capabilities: Loosely Coupled Architecture](https://dora.dev/devops-capabilities/technical/loosely-coupled-architecture/)

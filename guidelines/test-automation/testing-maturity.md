@@ -17,4 +17,8 @@
 
 ![Test Pyramid](../../images/testing-maturity-pyramid.png)
 
-Tolerating unreliable tests. Tests should be reliable: that is, when the tests pass we should be confident the software is releasable, and test failures should indicate a real defect. In particular, don’t tolerate flaky tests. [Read about Google’s mitigation strategy for flaky tests](https://testing.googleblog.com/2016/05/flaky-tests-at-google-and-how-we.html).
+Tolerating unreliable tests. Tests should be reliable: that is, when the tests pass we should be confident the software is releasable, and test failures should indicate a real defect. In particular, don’t tolerate flaky tests
+
+
+**Further reading**:
+* [Google’s mitigation strategy for flaky tests](https://testing.googleblog.com/2016/05/flaky-tests-at-google-and-how-we.html).

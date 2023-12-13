@@ -16,6 +16,5 @@ The general rules for automation frameworks include coding standards that you ca
 * **Improved Efficiency**: Test automation frameworks increase productivity due to standardization. It guarantees maximum test coverage as the set of codes in a framework is executed in a standard manner from the beginning.
 
 
-More information:
-
-[Popular Test Automation Frameworks: How to Choose](https://www.browserstack.com/guide/best-test-automation-frameworks)
+**Further reading**:
+* [Popular Test Automation Frameworks: How to Choose](https://www.browserstack.com/guide/best-test-automation-frameworks)

@@ -23,6 +23,5 @@ To improve your change management processes, focus on implementing the following
 * Implement information security controls at the platform and infrastructure layer and in the development tool chain, rather than reviewing them manually as part of the software delivery process.
 
 
-More detail:
-
-[DORA | DevOps Capabilities: Streamlining Change Approval](https://dora.dev/devops-capabilities/process/streamlining-change-approval/)
+**Further reading**:
+* [DORA | DevOps Capabilities: Streamlining Change Approval](https://dora.dev/devops-capabilities/process/streamlining-change-approval/)

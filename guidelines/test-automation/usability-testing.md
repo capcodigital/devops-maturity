@@ -19,7 +19,7 @@ For accessibility testing the focus is more put on unit and integration tests. A
 An example of such a test:
 
 ```
-it('should pass aria-label to the inner button', inject(function() {
+it ('should pass aria-label to the inner button', inject(function() {
     var template = '&lt;custom-button label="Squishy Face"&gt;&lt;/custom-button&gt;';
     var compiledElement = make(template);
     expect(compiledElement.find('button').attr('aria-label')).toEqual('Squishy Face');
@@ -33,7 +33,6 @@ You can try using [Simulant](https://www.npmjs.com/package/simulant), so long as
 Instead of unit testing interactions and expecting a focused element, you can write unit tests that call related API methods with static inputs, such as state variables or HTML fragments. Then you can assert those methods were called and the state changed appropriately.
 
 
-Read more here:
-
-[Writing Automated Tests for Accessibility](https://www.deque.com/blog/writing-automated-tests-accessibility/)
-[Evaluating Web Accessibility Overview](https://www.w3.org/WAI/test-evaluate/)
+**Further reading**:
+* [Writing Automated Tests for Accessibility](https://www.deque.com/blog/writing-automated-tests-accessibility/)
+* [Evaluating Web Accessibility Overview](https://www.w3.org/WAI/test-evaluate/)

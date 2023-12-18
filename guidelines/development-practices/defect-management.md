@@ -2,7 +2,7 @@
 # [Development Practices](README.md) - Defect Management
 
 
-Effective defect management is crucial to ensure that issues are fixed in an appropriate timeframe. There are many tools available to track issues (e.g. Jira) and recording issues in the same tool as jobs are assigned enables them to be prioritised together with other work.
+Effective defect management is crucial to ensure that issues are fixed in an appropriate timeframe. There are many tools available to track issues (e.g. Jira) and recording issues in the same tool, that jobs are assigned, enables them to be prioritised together with other work.
 
 
 ## Discovery

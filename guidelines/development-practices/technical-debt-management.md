@@ -8,15 +8,13 @@ The first thing to acknowledge is that, since there is no such thing as a perfec
 
 Technical debt (tech debt) is the accumilation of a system's imperfections. This can take many forms, including:
 
-* **Aging cloud/physical infrastructure**: when commissioned, the infrastructure may have been fit for purpose but can it still cope with the increased traffic or growing workload? Not to mention keeping up to date with software patches.
+* **Aging infrastructure**: when commissioned, the infrastructure may have been fit for purpose but can it still cope with the increased traffic or growing workload? Not to mention keeping up to date with software patches.
 
 * **Code which is difficult to maintain**: possibly the original authors have moved on or maybe the code was not written in an optimal manner.
 
 * **Code base which is written in different language/frameworks**: languages and frameworks evolve and fall out of favour.
 
-There may be times when a delivery deadline requires the team to agree to add to its tech debt but this needs to be the exception to the norm and this debt needs to be addressed ("paid back").
-
-In a similar manner to financial debt, unless tech debt is managed carefully, it will grow and hamper the team's ability to deliver.
+There may be times when a delivery deadline requires the team to agree to add to its tech debt but this needs to be the exception to the norm and this debt needs to be addressed ("paid back"). In a similar manner to financial debt, unless tech debt is managed carefully, it will grow and hamper the team's ability to deliver.
 
 Keeping on top of tech debt takes time and effort and must be balanced with the need to deliver change. Too much focus on one or the other will have issues in the long run.
 
@@ -25,6 +23,8 @@ Keeping on top of tech debt takes time and effort and must be balanced with the 
 The less tech debt that added to a system, the less that has to be fixed down the line.
 
 Regular code reviews and Paired Programming (AKA. Extreme Programming) are good approaches to identify and fix tech debt before it makes it into the system.
+
+Investing time into identifying potential tech debt is an effective way to share knowledge between senior and junior team members as well as sharing new ways of doing things.
 
 ## Tracking Technical Debt
 

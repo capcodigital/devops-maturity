@@ -8,9 +8,9 @@ Regardless of the selected platform for the documentation (Confluence, Sharepoin
 
 * **Clear**: Although documentation does not need to written for someone completely new to the product or application, the more knowledge that is assumed of the reader, the harder it will be for them to access the information within.
 * **Concise**: Excessively long paragraphs can be difficult to take it. Consider:
-  * bulletting key points
-  * highlighting important information
-  * appropriate use of diagrams
+    * bulletting key points
+    * highlighting important information
+    * appropriate use of diagrams
 * **Well Structured**: Many documentation tools allow for auto-generated table of contents or page indexes. Being able to click through to the right section will save the reader time. The easier documentation is to access - the more likely it will be used.
 * **Up to Date**: Documentation that does not accurate reflect the current state will either be ignored or (far worse) lead to avoidable misunderstandings.
 
@@ -19,10 +19,10 @@ Regardless of the selected platform for the documentation (Confluence, Sharepoin
 
 * Application overview
 * Diagrams
-  * Architecture
-  * Network
-  * User journey
-  * Data flow
+    * Architecture
+    * Network
+    * User journey
+    * Data flow
 * Deployment information
 * Developer local set up - this is especially useful within the repository's README.md file
 * Links to password vaults or similar
@@ -32,7 +32,7 @@ Regardless of the selected platform for the documentation (Confluence, Sharepoin
 **Documentation should NOT contain**:
 
 * Sensitive information
-  * secrets/passwords
-  * customer data
-  * etc.
+    * secrets/passwords
+    * customer data
+    * etc.
 * Opinions

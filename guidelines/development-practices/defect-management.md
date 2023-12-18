@@ -20,7 +20,7 @@ When recording a bug it is important to capture:
 
 The bug report would need to be reviewed in order to:
 * **Confirm it is a bug**: some reported bugs are actually desired functionality e.g. in this case, it is correct that input box be disabled due to the particular product options selected
-  * In the circumstances where there remains disagreement on whether the reported bug is or is not a bug, a senior member of the team would need to decide (e.g. product owner, test manager)
+    * In the circumstances where there remains disagreement on whether the reported bug is or is not a bug, a senior member of the team would need to decide (e.g. product owner, test manager)
 * **Set priority**: Is this a production-breaking issue that must be fixed within the hour or is it a very rare and minor inconvience that can be added to the backlog
 
 

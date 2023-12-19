@@ -28,7 +28,7 @@ Investing time into identifying potential tech debt is an effective way to share
 
 ## Tracking Technical Debt
 
-Like tracking defects, effective tech debt management is crucial to ensure that issues are fixed in an appropriate timeframe. There are many tools available to track issues (e.g. Jira) and recording issues in the same tool, that jobs are assigned, enables them to be prioritised together with other work.
+Like tracking defects, effective tech debt management is crucial to ensure that issues are fixed in an appropriate timeframe. There are many tools available to track issues (e.g. Jira) and recording issues in the same tool that jobs are assigned, enables them to be prioritised alongside other work.
 
 ## Fixing Technical Debt
 

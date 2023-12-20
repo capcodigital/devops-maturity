@@ -27,7 +27,7 @@ In this approach:
 
 ![GitFlow](../../images/gitflow.png)
 
-The major weakness of this approach is the tendancy to have long lived feature branches. This leads to an increased likelihood of merge conflicts
+The major weakness of this approach is the tendancy to have long lived feature branches. This leads to an increased likelihood of merge conflicts.
 Additionally, without proper checks, there is a risk that a release branch is missing a hotfix that had been deployed to production - effectively reintroducing the bug.
 
 

@@ -12,7 +12,7 @@ However, finding the right limit of WIP can be tricky:
 
 There are no hard and fast rules about WIP limits, it depends on the size and structure of the team. A good place to start is to:
 
-* Set the max WIP in any part of the process to the number of people able to work on that task
+* Set the max WIP in any part of the process to the number of people able to work on that type of task
 * Agree on the criteria for a ticket to pass on to the next part of the process
 * Agree on the **Definition of Done** so that the ticket leaves the process to the appropriate standard
 

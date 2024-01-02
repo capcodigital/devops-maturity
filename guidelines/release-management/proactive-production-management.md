@@ -24,7 +24,7 @@ Chaos Engineering Principles
 * **Vary Real-world Events**: Chaos variables reflect real-world events.  Prioritise events either by potential impact or estimated frequency.  Any event capable of disrupting steady state is a potential variable in a Chaos experiment.
 * **Run Experiments in Production**: Systems behave differently depending on environment and traffic patterns.  Since the behavior of utilisation can change at any time, sampling real traffic is the only way to reliably capture the request path.  To guarantee both authenticity of the way in which the system is exercised and relevance to the current deployed system, Chaos strongly prefers to experiment directly on production traffic.
 * **Automate Experiments to Run Continuously**: Running experiments manually is labor-intensive and ultimately unsustainable.  Automate experiments and run them continuously.  Chaos Engineering builds automation into the system to drive both orchestration and analysis.
-* **Minimize Blast Radius**:  Experimenting in production has the potential to cause unnecessary customer pain. While there must be an allowance for some short-term negative impact, it is the responsibility and obligation of the Chaos Engineer to ensure the fallout from experiments are minimized and contained.
+* **Minimise Blast Radius**:  Experimenting in production has the potential to cause unnecessary customer pain. While there must be an allowance for some short-term negative impact, it is the responsibility and obligation of the Chaos Engineer to ensure the fallout from experiments are minimised and contained.
 
 
 ---

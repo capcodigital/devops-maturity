@@ -16,7 +16,7 @@ Examples of implementing the Principle of Least Privilege include:
 * Database administrators should have access only to the databases they are responsible for and not to unrelated data.
 * Software applications should only have access to the system resources and data necessary for their intended functions.
 
-Adhering to the Principle of Least Privilege is a crucial security practice because it limits the attack surface and minimizes the potential for unauthorised access and misuse of resources. It's an integral part of security best practices in system administration, application development, and overall access control strategies.
+Adhering to the Principle of Least Privilege is a crucial security practice because it limits the attack surface and minimises the potential for unauthorised access and misuse of resources. It's an integral part of security best practices in system administration, application development, and overall access control strategies.
 
 
 **Security Awareness Training**

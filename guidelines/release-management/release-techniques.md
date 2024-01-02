@@ -82,7 +82,7 @@ Advantages of Rolling Deployments:
 * **Zero Downtime**: Rolling deployments are designed to maintain service availability throughout the update process, ensuring users experience no downtime or disruptions.
 * **Risk Mitigation**: The gradual approach minimizes the risk of widespread issues. If problems occur in one segment, the impact is limited to that segment, and the rest of the application remains unaffected.
 * **Quick Rollback**: In the event of significant issues, it's relatively easy to roll back a specific segment to the previous version while keeping the rest of the application updated.
-* **Performance and Scalability**: Rolling deployments allow for performance optimizations and scaling as each segment is updated, ensuring the new version can handle increased traffic.
+* **Performance and Scalability**: Rolling deployments allow for performance optimisations and scaling as each segment is updated, ensuring the new version can handle increased traffic.
 
 
 ## A/B Testing
@@ -106,6 +106,6 @@ Two or more variations (A, B, C, etc.) of the software are created, with each va
 Advantages of A/B testing:
 
 * **Data-Driven Decision-Making**: A/B testing allows you to make informed decisions based on objective data, reducing subjectivity and speculation.
-* **Improved User Experience**: By testing changes with a subset of users, you can identify and address issues and optimize the user experience before a full release.
+* **Improved User Experience**: By testing changes with a subset of users, you can identify and address issues and optimise the user experience before a full release.
 * **Iterative Improvement**: A/B testing can be used iteratively to continually refine and enhance your software, making incremental improvements over time.
 * **Risk Mitigation**: The ability to roll back changes or avoid deploying suboptimal variations helps mitigate potential negative impacts on users.

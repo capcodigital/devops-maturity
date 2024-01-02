@@ -4,17 +4,17 @@
 
 **FOSS scanning**
 
-FOSS scanning, or Free and Open Source Software scanning, refers to the process of analyzing software code to identify and track open-source components and their licenses. It is a crucial practice for organizations and developers who use open-source software in their projects. The primary goals of FOSS scanning are to ensure compliance with open-source licenses, manage potential legal risks, and enhance software security.
+FOSS scanning, or Free and Open Source Software scanning, refers to the process of analyzing software code to identify and track open-source components and their licenses. It is a crucial practice for organisations and developers who use open-source software in their projects. The primary goals of FOSS scanning are to ensure compliance with open-source licenses, manage potential legal risks, and enhance software security.
 
 
 Here are some of the key advantages:
 
 1. **License Compliance**: FOSS scanning helps ensure that software projects adhere to open-source licenses. It identifies the licenses associated with each component, allowing developers to understand and comply with the legal obligations of the software they are using.
-1. **Risk Mitigation**: It helps manage legal and compliance risks associated with open-source software. By identifying potential licensing conflicts or violations, organizations can proactively address and mitigate these issues, reducing legal liabilities.
-1. **Security Enhancement**: FOSS scanning tools can detect vulnerabilities and security issues in open-source components. This information enables organizations to patch or update these components to enhance the overall security of their software.
+1. **Risk Mitigation**: It helps manage legal and compliance risks associated with open-source software. By identifying potential licensing conflicts or violations, organisations can proactively address and mitigate these issues, reducing legal liabilities.
+1. **Security Enhancement**: FOSS scanning tools can detect vulnerabilities and security issues in open-source components. This information enables organisations to patch or update these components to enhance the overall security of their software.
 1. **Component Inventory**: It creates and maintains an inventory of all open-source components used in a project. This transparency helps with documentation, tracking, and version control, simplifying the management of software dependencies.
 1. **Remediation Guidance**: FOSS scanning often provides recommendations for addressing identified issues, such as replacing components with known vulnerabilities or updating to the latest versions. This guidance aids in maintaining software quality and security.
-1. **Community Contribution**: By using FOSS scanning tools, organizations can contribute to the open-source community by reporting vulnerabilities, issues, or improvements, which benefits the wider ecosystem.
+1. **Community Contribution**: By using FOSS scanning tools, organisations can contribute to the open-source community by reporting vulnerabilities, issues, or improvements, which benefits the wider ecosystem.
 
 
 In summary, FOSS scanning is a valuable practice that ensures compliance, enhances security, and reduces risks when using open-source software. It also offers efficiency gains, cost savings, and transparency, making it an essential component of modern software development and management.
@@ -24,7 +24,7 @@ Example of a tool providing FOSS capabilities: [Open Source Audit Services with 
 
 **Policy as Code**
 
-Policy as code (PaC) is a concept and practice in the field of information technology and cybersecurity that involves defining, expressing, and implementing organizational policies, rules, and compliance requirements using code. This approach leverages the principles and techniques of software development to manage and enforce policies, making them more automated, consistent, and auditable.
+Policy as code (PaC) is a concept and practice in the field of information technology and cybersecurity that involves defining, expressing, and implementing organisational policies, rules, and compliance requirements using code. This approach leverages the principles and techniques of software development to manage and enforce policies, making them more automated, consistent, and auditable.
 
 
 Some of the key advantages of adopting policy as code include:
@@ -33,11 +33,11 @@ Some of the key advantages of adopting policy as code include:
 1. **Consistency & Scalability**: Policies are consistently applied across various environments and resources, reducing the risk of configuration errors and deviations from compliance standards. PaC can scale to handle complex, large-scale environments and infrastructures, ensuring that policies are applied uniformly.
 1. **Version Control**: PaC code can be version-controlled, allowing for proper tracking of changes and ensuring that historical policy configurations can be reviewed or rolled back.
 1. **Audit Trail**: PaC provides an audit trail of policy enforcement, simplifying compliance reporting, and providing evidence for regulatory requirements.
-1. **Flexibility**: Policies can be adapted and updated more easily in response to changes in regulations, organizational requirements, or security threats.
+1. **Flexibility**: Policies can be adapted and updated more easily in response to changes in regulations, organisational requirements, or security threats.
 1. **Reduced Human Error**: By automating policy enforcement, PaC reduces the potential for human error that can occur during manual policy checks.
 1. **Alignment with DevOps and Infrastructure as Code**: PaC fits well with modern practices like DevOps and Infrastructure as Code (IaC), allowing policies to be expressed and enforced as code alongside other infrastructure and application configurations.
 1. **Compliance and Security**: PaC helps maintain compliance with industry regulations and security best practices, reducing the risk of data breaches and security incidents.
-1. **Transparency**: Policy definitions in code are transparent and can be reviewed by stakeholders, promoting a clearer understanding of organizational policies.
+1. **Transparency**: Policy definitions in code are transparent and can be reviewed by stakeholders, promoting a clearer understanding of organisational policies.
 
 
 In summary, policy as code provides a powerful framework for automating and managing policies, improving consistency, security, and compliance, while also enhancing collaboration and reducing the potential for errors in policy enforcement. This approach is especially valuable in the fast-paced, complex, and regulated environments of modern IT and cybersecurity.
@@ -99,4 +99,4 @@ In this code, we are using HashiCorp Configuration Language (HCL) to define an I
 
 This code can be part of your Infrastructure as Code (IaC) scripts and version-controlled like software code. It allows for automated and consistent policy enforcement when provisioning and managing AWS resources.
 
-Please note that this is a simplified example for illustrative purposes. In real-world scenarios, policies can be more complex and comprehensive, involving multiple resources, roles, and conditions, depending on your organization's specific requirements.
+Please note that this is a simplified example for illustrative purposes. In real-world scenarios, policies can be more complex and comprehensive, involving multiple resources, roles, and conditions, depending on your organisation's specific requirements.

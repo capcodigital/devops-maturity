@@ -8,7 +8,7 @@ Lead time, sometimes also called Cycle Time, measures the amount of time it take
 
 **Best practices to improve Lead Time**
 
-* Organize work pieces in small batches – this way, and it’s easier to identify bottlenecks and fix issues faster when they are triggered.
+* Organise work pieces in small batches – this way, and it’s easier to identify bottlenecks and fix issues faster when they are triggered.
 * Use automated testing to identify issues with code before it goes into production.
 * Use CI to automate deployment pipeline
 

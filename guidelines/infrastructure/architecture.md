@@ -13,7 +13,7 @@ When teams adopt continuous delivery practices, adopting the following architect
 * Teams can deploy during normal business hours with negligible downtime.
 
 
-Given the pros and cons of architectural archetypes, each fits a different evolutionary need for an organization.
+Given the pros and cons of architectural archetypes, each fits a different evolutionary need for an organisation.
 
 | Archetype | Pros | Cons |
 |---|---|---|
@@ -24,7 +24,7 @@ Given the pros and cons of architectural archetypes, each fits a different evolu
 
 **Common pitfalls in architecture**
 
-* **Simultaneously releasing many services**: In teams where testability and deployability are not prioritized, most testing requires the use of complex and expensive integrated environments. In many cases, deployments require that you simultaneously release many services due to complex interdependencies. These “big-bang” deployments require teams to orchestrate their work, with many hand-offs and dependencies between hundreds or thousands of tasks. Big-bang deployments typically take many hours or even days, and require scheduling significant downtime.
+* **Simultaneously releasing many services**: In teams where testability and deployability are not prioritised, most testing requires the use of complex and expensive integrated environments. In many cases, deployments require that you simultaneously release many services due to complex interdependencies. These “big-bang” deployments require teams to orchestrate their work, with many hand-offs and dependencies between hundreds or thousands of tasks. Big-bang deployments typically take many hours or even days, and require scheduling significant downtime.
 * **Integrating changes with the changes from hundreds, or even thousands, of other developers**: Those developers, in turn, might have dependencies on tens, hundreds, or thousands of interconnected systems. Testing is done in scarce integration test environments, which often require weeks to obtain and configure. These environments are typically not representative of production, reducing the value and accuracy of the testing. The result is not only long lead times for changes (typically measured in weeks or months) but also low developer productivity and poor deployment outcomes.
 * **Creating bottlenecks in the software delivery process**: Example bottlenecks could be a single team that many others rely on either from a manual process standpoint (testing, deployment, and so on) or from a service operation standpoint. In both examples, those bottlenecks create single points of failure and demand that those teams or services scale to meet the demands of the many dependent teams.
 

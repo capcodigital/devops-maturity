@@ -4,8 +4,8 @@
 Below are 5 key aspects that can help teams mitigate some of the common challenges and drive the successful creation of a DevOps friendly culture
 
 1. **Create a no blame environment**: Blame – even directed inwards – is a negative thing and doesn’t help to gain insight into the context of the situation or how to reduce the risk in the future
-1. **Encourage change**: We need to work across the wider organization to ensure they accept the fact that change is a good thing and not something to be feared
-1. **Good leadership**: Leaders can shape a companies culture through their behaviors therefore it is essential that we recognize and reward the right behaviors
+1. **Encourage change**: We need to work across the wider organisation to ensure they accept the fact that change is a good thing and not something to be feared
+1. **Good leadership**: Leaders can shape a companies culture through their behaviors therefore it is essential that we recognise and reward the right behaviors
 1. **Embrace failure**: Failure is the opportunity to learn. If you don’t learn from your failure, then you’re just wasting time. So don’t punish failure, but punish not learning from failure
 1. **Support trust, honesty, openness and transparency**: The most important cultural ingredients a team must establish and cultivate are trust, being honest, transparent and open
 
@@ -24,7 +24,7 @@ Blame – even directed inwards – is a negative thing and doesn’t help to ga
 
 ## Encourage Change
 
-In the same vein as fostering innovation and accountability at grass roots, we need to work across the wider organization to ensure they accept the fact that change is a good thing and not something to be feared
+In the same vein as fostering innovation and accountability at grass roots, we need to work across the wider organisation to ensure they accept the fact that change is a good thing and not something to be feared
 
 ### Approach
 
@@ -38,8 +38,8 @@ In the same vein as fostering innovation and accountability at grass roots, we n
 
 ## Good Leadership
 
-* Good leaders help build great teams, great technology, and great organizations indirectly, by enabling teams to re-architect their systems and implement continuous delivery and lean management practices
-* Transformational leadership enables the necessary practices that correlate with high performance, and it also supports effective communication and collaboration between team members in pursuit of organizational goals. Such leadership provides the foundation for a culture in which continuous experimentation and learning is part of everybody’s daily work
+* Good leaders help build great teams, great technology, and great organisations indirectly, by enabling teams to re-architect their systems and implement continuous delivery and lean management practices
+* Transformational leadership enables the necessary practices that correlate with high performance, and it also supports effective communication and collaboration between team members in pursuit of organisational goals. Such leadership provides the foundation for a culture in which continuous experimentation and learning is part of everybody’s daily work
 
 
 ## Embrace Failure
@@ -67,7 +67,7 @@ Why do we need it?
 
 * To ensure that the implementation of CD and DevOps is successful
 * To break down silos and barriers
-* To implement the much-needed changes throughout your organization
+* To implement the much-needed changes throughout your organisation
 * To have a forum to share thoughts, suggestions, observations, worries, and news
 * To surface details and facts that otherwise would have been missed or stayed hidden
 

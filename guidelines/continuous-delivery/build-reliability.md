@@ -9,7 +9,7 @@ Tips or pointers to help remediate broken builds:
 
 **Make sure it builds locally**
 
-Like the classical saying of “have you tried turning it on and off again”, making sure you can run and build a solution locally in a similar way to the way the build agent executes a build will give developers a higher degree of success when trying to quickly identify issues with a build. For example, a build fails but locally it is working, it could be as simple as a dependency on a file that was forgotten to be checked in etc.
+Like the classical saying of “have you tried turning it on and off again”, making sure you can run and build a solution locally in a similar way to the way the build agent executes a build, will give developers a higher degree of success when trying to quickly identify issues with a build. For example, a build fails but locally it is working, it could be as simple as a dependency on a file that was forgotten to be checked in etc.
 
 **Ensure sufficient logging on the build server**
 

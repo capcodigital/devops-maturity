@@ -3,7 +3,7 @@
 
 
 ## [Team Health](team-health.md)
-The right team health plays a pivotal role in accelerating flow within teams and organization. When a culture of collaboration, continuous improvement, open communication, empowerment, and adaptability is fostered, teams are better equipped to work seamlessly, make quick decisions, and take ownership of their tasks. Ultimately, leading to the accelerated flow of work and the timely delivery of value to stakeholders.
+The right team health plays a pivotal role in accelerating flow within teams and organisation. When a culture of collaboration, continuous improvement, open communication, empowerment, and adaptability is fostered, teams are better equipped to work seamlessly, make quick decisions, and take ownership of their tasks. Ultimately, leading to the accelerated flow of work and the timely delivery of value to stakeholders.
 
 
 ## [Team Structure](team-structure.md)

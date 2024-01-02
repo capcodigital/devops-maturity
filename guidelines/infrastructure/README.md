@@ -7,4 +7,4 @@ Loosely coupled architectures are of paramount importance in software delivery d
 
 
 ## [Infrastructure Management](infrastructure-management.md)
-Many organizations seek flexible technical infrastructure, often in the form of cloud computing. However, many organizations still use their traditional datacenter practices and processes to manage their cloud infrastructure, they can’t achieve the expected benefits, which include: Improved software delivery performance, Better service availability and better cost optimisation. One of the best ways of improving is by implementing Infrastructure as Code.
+Many organisations seek flexible technical infrastructure, often in the form of cloud computing. However, many organisations still use their traditional datacenter practices and processes to manage their cloud infrastructure, they can’t achieve the expected benefits, which include: Improved software delivery performance, Better service availability and better cost optimisation. One of the best ways of improving is by implementing Infrastructure as Code.

@@ -14,7 +14,10 @@
     * If your tests are expensive to maintain, this could point to problems with your software’s [architecture](https://dora.dev/devops-capabilities/technical/loosely-coupled-architecture). Make sure you continue to invest in making your software easy to test, including incorporating [refactoring](https://refactoring.com/) into your team’s daily work.
 * Having the wrong proportion of unit and acceptance tests. A specific design goal of an automated test suite is to find errors as early as possible. This is why faster-running unit tests run before slower-running acceptance tests, and both are run before any manual testing.
 * You should find errors with the fastest category of test. When you find an error in an acceptance test or during exploratory testing, add a unit test to make sure this error is caught faster, earlier, and cheaper next time. Mike Cohn described the ideal [test automation pyramid](https://books.google.com.br/books?id=8IglA6i_JwAC&printsec=frontcover&dq=Mike+Cohn+Succeeding+with+Agile&hl=pt-BR&sa=X&ved=0ahUKEwj9x8S8tuTiAhWjGLkGHU0GCxEQ6AEILTAA#v=onepage&q=Mike%20Cohn%20Succeeding%20with%20Agile&f=false), shown in the following diagram, where most of the errors are caught using unit testing.
-
 ![Test Pyramid](../../images/testing-maturity-pyramid.png)
+* Tolerating unreliable tests. Tests should be reliable: that is, when the tests pass we should be confident the software is releasable, and test failures should indicate a real defect. In particular, don’t tolerate flaky tests
 
-Tolerating unreliable tests. Tests should be reliable: that is, when the tests pass we should be confident the software is releasable, and test failures should indicate a real defect. In particular, don’t tolerate flaky tests. [Read about Google’s mitigation strategy for flaky tests](https://testing.googleblog.com/2016/05/flaky-tests-at-google-and-how-we.html).
+
+---
+**Further reading**:
+* [Google’s mitigation strategy for flaky tests](https://testing.googleblog.com/2016/05/flaky-tests-at-google-and-how-we.html).

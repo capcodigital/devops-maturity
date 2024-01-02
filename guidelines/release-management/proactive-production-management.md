@@ -26,6 +26,7 @@ Chaos Engineering Principles
 * **Automate Experiments to Run Continuously**: Running experiments manually is labor-intensive and ultimately unsustainable.  Automate experiments and run them continuously.  Chaos Engineering builds automation into the system to drive both orchestration and analysis.
 * **Minimize Blast Radius**:  Experimenting in production has the potential to cause unnecessary customer pain. While there must be an allowance for some short-term negative impact, it is the responsibility and obligation of the Chaos Engineer to ensure the fallout from experiments are minimized and contained.
 
-Further reading:
 
-[Principles of chaos engineering](https://principlesofchaos.org/)
+---
+**Further reading**:
+* [Principles of chaos engineering](https://principlesofchaos.org/)

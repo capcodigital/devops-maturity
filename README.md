@@ -45,12 +45,10 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 The purpose of this repository is to provide DevOps Best Practice Guidelines which can be referenced from Capco's DevOps Maturity Assessment dashboard.
 
-* [Culture](guidelines/culture/README.md)
 * [Continuous Delivery](guidelines/continuous-delivery/README.md)
+* [Culture](guidelines/culture/README.md)
 * [Development Practices](guidelines/development-practices/README.md)
 * [Infrastructure](guidelines/infrastructure/README.md)
 * [Metrics](guidelines/metrics/README.md)

@@ -7,7 +7,7 @@ Implementing the right security design principles provides a proactive approach 
 
 
 ## [Implementation](implementation.md)
-Implementing the right security strategy in software delivery accelerates flow by addressing security considerations early in the development process, reducing the likelihood of costly delays and disruptions. This strategy incorporates automated security testing, shift-left security practices, and DevSecOps collaboration to ensure that security is integrated seamlessly. By identifying and mitigating security vulnerabilities proactively, organizations minimize the need for rework and emergency fixes.
+Implementing the right security strategy in software delivery accelerates flow by addressing security considerations early in the development process, reducing the likelihood of costly delays and disruptions. This strategy incorporates automated security testing, shift-left security practices, and DevSecOps collaboration to ensure that security is integrated seamlessly. By identifying and mitigating security vulnerabilities proactively, organisations minimize the need for rework and emergency fixes.
 
 
 ## [Security Testing & Reporting](security-testing-and-reporting.md)

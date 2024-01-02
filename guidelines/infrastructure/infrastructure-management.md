@@ -2,16 +2,16 @@
 # [Infrastructure](README.md) - Infrastructure Management
 
 
-Many organizations seek flexible technical infrastructure, often in the form of cloud computing. But there’s more to it than buying your infrastructure from a cloud provider. Five essential characteristics of cloud computing:
+Many organisations seek flexible technical infrastructure, often in the form of cloud computing. But there’s more to it than buying your infrastructure from a cloud provider. Five essential characteristics of cloud computing:
 
 * **On demand self-service**: Consumers can provision computing resources as needed, without human interaction from the provider.
 * **Broad network access**: Capabilities can be accessed through diverse platforms such as mobile phones, tablets, laptops, and workstations.
 * **Resource pooling**: Provider resources are pooled in a multi-tenant model, with physical and virtual resources dynamically assigned on-demand. The customer may specify location at a higher level of abstraction such as country, state, or data center.
 * **Rapid elasticity**: Capabilities can be elastically provisioned and released to rapidly scale outward or inward on demand, appearing to be unlimited and able to be appropriated in any quantity at any time.
-* **Measured service**: Cloud systems automatically control, optimize, and report resource use based on the type of service such as storage, processing, bandwidth, and active user accounts.
+* **Measured service**: Cloud systems automatically control, optimise, and report resource use based on the type of service such as storage, processing, bandwidth, and active user accounts.
 
 
-Many organizations still use their traditional datacentre practices and processes to manage their cloud infrastructure, they can’t achieve the expected benefits, which according to DORA’s research include:
+Many organisations still use their traditional datacentre practices and processes to manage their cloud infrastructure, they can’t achieve the expected benefits, which according to DORA’s research include:
 
 * Improved software delivery performance: faster throughput and higher levels of stability
 * Better service availability

@@ -56,7 +56,7 @@ Based on Team Topologies each team has a clear purpose it needs to cover to be s
 There are 3 types of interaction which teams will face throughout their longevity:
 
 **Collaboration**
-* Two teams work closely together for a defined period to discover new patterns, approaches and limitations. Responsibility is shared and boundaries blurred, but problems re solved rapidly and the organization learns quickly
+* Two teams work closely together for a defined period to discover new patterns, approaches and limitations. Responsibility is shared and boundaries blurred, but problems re solved rapidly and the organisation learns quickly
 
 **X-as-a-service**
 * One team consumes something (such as a service on an API) provided “as a service” from another team. Responsibilities are clearly delineated and – if boundary is effective – the consuming team can deliver rapidly. The team providing the service seeks to make their service as easy to consume as possible

@@ -7,7 +7,7 @@ Broken or failing builds in a CI/CD pipeline can deteriorate a team's faith in i
 
 
 ## [Change Management Controls](change-management-controls.md)
-The right change management control process is a crucial element in accelerating flow within an organisation. It establishes a structured and controlled approach to implementing changes while minimizing disruption and risk. By providing clear guidelines and approvals for changes, it ensures that updates are thoroughly tested and documented, reducing the likelihood of errors or unexpected issues.
+The right change management control process is a crucial element in accelerating flow within an organisation. It establishes a structured and controlled approach to implementing changes while minimising disruption and risk. By providing clear guidelines and approvals for changes, it ensures that updates are thoroughly tested and documented, reducing the likelihood of errors or unexpected issues.
 
 
 ## [Configuration](configuration.md)

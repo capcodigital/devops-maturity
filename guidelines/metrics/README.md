@@ -21,4 +21,4 @@ By swiftly restoring normal operations, organisations can maintain productivity 
 
 
 ## [Reliability](reliability.md)
-By ensuring consistent performance and predictability, reliability minimizes disruptions and downtime, allowing processes to run smoothly and consistently. This reduces the need for troubleshooting and rework, enabling teams to focus on productive tasks and goals.
+By ensuring consistent performance and predictability, reliability minimises disruptions and downtime, allowing processes to run smoothly and consistently. This reduces the need for troubleshooting and rework, enabling teams to focus on productive tasks and goals.

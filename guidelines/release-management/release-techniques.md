@@ -29,11 +29,11 @@ If there is any problem with the new software version, traffic can be switched b
 
 Advantages of Blue/Green deployments include:
 
-* **Zero Downtime**: The Blue-Green Deployment approach minimizes or eliminates downtime during the release, as the transition is seamless.
-* **Rapid Rollback**: If issues are detected in the Green environment after the switch, you can quickly revert to the stable Blue environment to minimize user disruption.
+* **Zero Downtime**: The Blue-Green Deployment approach minimises or eliminates downtime during the release, as the transition is seamless.
+* **Rapid Rollback**: If issues are detected in the Green environment after the switch, you can quickly revert to the stable Blue environment to minimise user disruption.
 * **Testing and Verification**: The technique allows for thorough testing and verification in a production-like environment, reducing the likelihood of post-release issues.
 * **Predictable Rollouts**: It provides a predictable and reliable method for rolling out changes, ensuring a consistent user experience.
-* **Enhanced Reliability**: The ability to switch back to the previous version swiftly enhances system reliability and minimizes risks. 
+* **Enhanced Reliability**: The ability to switch back to the previous version swiftly enhances system reliability and minimises risks. 
 
 ## Canary Release
 A canary release is a deployment strategy that releases an application or service incrementally to a subset of users. All infrastructure in a target environment is updated in small phases (e.g: 2%, 25%, 75%, 100%). This group is often chosen based on factors such as their willingness to participate, specific user profiles, or system characteristics.
@@ -53,7 +53,7 @@ Expansion typically occurs in stages, and the deployment is monitored at each st
 Advantages of Canary Release:
 
 * **Early Issue Detection**: Canary Releases allow for the early detection of potential issues or bugs that may not have been apparent during testing. By identifying problems with a smaller user group, you can address them before a full rollout.
-* **Reduced Risk**: Rolling out to a limited audience minimizes the risk associated with a widespread release. This approach helps protect a larger user base from any critical issues.
+* **Reduced Risk**: Rolling out to a limited audience minimises the risk associated with a widespread release. This approach helps protect a larger user base from any critical issues.
 * **User Feedback**: Canary users can provide valuable feedback on the new release, which can be used to make improvements or adjustments before the broader release.
 * **Controlled Expansion**: Gradual expansion provides a controlled and measured approach to increasing the release's reach, ensuring stability.
 
@@ -80,7 +80,7 @@ High level approach to Rolling Deployments:
 Advantages of Rolling Deployments:
 
 * **Zero Downtime**: Rolling deployments are designed to maintain service availability throughout the update process, ensuring users experience no downtime or disruptions.
-* **Risk Mitigation**: The gradual approach minimizes the risk of widespread issues. If problems occur in one segment, the impact is limited to that segment, and the rest of the application remains unaffected.
+* **Risk Mitigation**: The gradual approach minimises the risk of widespread issues. If problems occur in one segment, the impact is limited to that segment, and the rest of the application remains unaffected.
 * **Quick Rollback**: In the event of significant issues, it's relatively easy to roll back a specific segment to the previous version while keeping the rest of the application updated.
 * **Performance and Scalability**: Rolling deployments allow for performance optimisations and scaling as each segment is updated, ensuring the new version can handle increased traffic.
 

@@ -13,6 +13,6 @@ Two factors are used to assess the risk exposure of a test requirement, namely:
 1. Business Impact
 1. Likelihood of Failure
 
-As a result of risk-based testing, risks can be mitigated effectively, and negative business impacts can be minimized.
+As a result of risk-based testing, risks can be mitigated effectively, and negative business impacts can be minimised.
 
 The automation test pyramid should be followed while writing automated tests. The pyramid says that tests on the lower levels are cheaper to write and maintain, and quicker to run. Tests on the upper levels are more expensive to write and maintain, and slower to run. The percentage of UI tests should be comparatively less than the percentage of Service Tests and the percentage of Service Tests should be comparatively less than the percentage of Unit Tests to get the best return on investment.

@@ -3,7 +3,7 @@
 
 Below are 5 key aspects that can help teams mitigate some of the common challenges and drive the successful creation of a DevOps friendly culture
 
-1. **Create a no-blame environment**: Blame – even directed inwards – is a negative thing and doesn’t help to gain insight into the context of the situation or how to reduce the risk in the future
+1. **Create a no blame environment**: Blame – even directed inwards – is a negative thing and doesn’t help to gain insight into the context of the situation or how to reduce the risk in the future
 1. **Encourage change**: We need to work across the wider organisation to ensure they accept the fact that change is a good thing and not something to be feared
 1. **Good leadership**: Leaders can shape a company's culture through their behaviours therefore it is essential that we recognise and reward the right behaviours
 1. **Embrace failure**: Failure is the opportunity to learn. If you don’t learn from your failure, then you’re just wasting time. So don’t punish failure, but punish not learning from failure

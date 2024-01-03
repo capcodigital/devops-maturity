@@ -3,9 +3,9 @@
 
 Below are 5 key aspects that can help teams mitigate some of the common challenges and drive the successful creation of a DevOps friendly culture
 
-1. **Create a no blame environment**: Blame – even directed inwards – is a negative thing and doesn’t help to gain insight into the context of the situation or how to reduce the risk in the future
+1. **Create a no-blame environment**: Blame – even directed inwards – is a negative thing and doesn’t help to gain insight into the context of the situation or how to reduce the risk in the future
 1. **Encourage change**: We need to work across the wider organisation to ensure they accept the fact that change is a good thing and not something to be feared
-1. **Good leadership**: Leaders can shape a companies culture through their behaviors therefore it is essential that we recognise and reward the right behaviors
+1. **Good leadership**: Leaders can shape a company's culture through their behaviours therefore it is essential that we recognise and reward the right behaviours
 1. **Embrace failure**: Failure is the opportunity to learn. If you don’t learn from your failure, then you’re just wasting time. So don’t punish failure, but punish not learning from failure
 1. **Support trust, honesty, openness and transparency**: The most important cultural ingredients a team must establish and cultivate are trust, being honest, transparent and open
 
@@ -28,7 +28,7 @@ In the same vein as fostering innovation and accountability at grass roots, we n
 
 ### Approach
 
-* **Select** - Pick a small change and ensure that it is well publicized around the business
+* **Select** - Pick a small change and ensure that it is well publicised around the business
 * **Engage** - Engage the wider business, focusing on the risk averse, and ensure they are aware; also invite them to observe and contribute (stand-ups, planning meetings, etc)
 * **Ensure Awareness** - Ensure that the engineers working on the change are also aware that there is a heightened sense of observation for the change
 * **Share Progress** - As the change is progressing, get the engineering teams involved to post regular blog entries detailing what they are doing, including stats and figures (code coverage, test pass rate, and so on)
@@ -101,4 +101,4 @@ Healthy leadership teams have the following characteristics:
 * **Focus** - To commit and agree to a singular most important goal in the short to mid term, for the Domain leadership team.
 * **Build Trust** - To enable vulnerability in the team and help build honest conversations where egos don’t get in the way and mutual respect and compassion develops.
 * **One Improvement** - To move items from a person’s blind spot into a focus area for improvement.
-* **Gain Agreement** - Yo decide and commit to specific agreements and understandings before leaving the room
+* **Gain Agreement** - You decide and commit to specific agreements and understandings before leaving the room

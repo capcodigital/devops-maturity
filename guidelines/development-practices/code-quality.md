@@ -4,8 +4,8 @@
 
 There are many features that make up a code's quality:
 
-* **Readability**: Can the code be easily read by others? If so, then it would be much easier for others to maintain
-* **Documented/Commented**: Ideally, code should be self-explanatory but it is recommended comments to explain the workings to future developers
+* **Readability**: Code that can be easily read by others would be much easier for them to maintain
+* **Documented/Commented**: Ideally, code should be self-explanatory but it is recommended to include comments to explain the workings to future developers
 * **Future Proof**: Whilst it isn't feasible to know all the changes that would be required down the line, code should be written so that it can be easily extended without major refactoring
 * **Efficiency**: Code that can perform its function more efficiently will use fewer resources
 * **Testability**: Having suites of automated tests enables the team to make changes with increased confidence that their changes will not adversely effect the current functionality

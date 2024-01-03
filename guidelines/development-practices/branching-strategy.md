@@ -9,7 +9,7 @@ There are multiple branching strategies that the team could adopt (see below) bu
 There is no "one size fits all" branch strategy. Some approaches better suit small teams with shorter delivery cycles, others are more suited to defined release windows etc.
 One thing that should always be kept in mind when choosing a strategy is that the longer changes are kept separate, the harder they are to integrate together.
 
-Regardless of the branching strategy selected, effective use of tagging is highly recommended. e.g. tagging build points that were deployed to production.
+Regardless of the branching strategy selected, effective use of tagging is highly recommended. e.g. automatically tagging build points that were deployed to production.
 
 
 **Gitflow**

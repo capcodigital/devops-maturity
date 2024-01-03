@@ -10,8 +10,8 @@ Effective defect management is crucial to ensure that issues are fixed in an app
 When recording a bug it is important to capture:
 * **Definition of bug**: e.g. Surname case logic not working in all cases
 * **Steps to recreate bug**: e.g. Create a new contact with surname of o'donnell and click save
-* **Expected behaviour**: e.g. Surname should be displayed as "O'Donnel"
-* **Actual behaviour**: e.g. Surname is be displayed as "O'donnel"
+* **Expected behaviour**: e.g. Surname should be displayed as "O'Donnell"
+* **Actual behaviour**: e.g. Surname is be displayed as "O'donnell"
 * **Additional information**: e.g. Other failing cases include "McEnroe" and "MacDowell"
 * **Evidence**: e.g. Screenshot with issue highlighted
 
@@ -38,7 +38,7 @@ Having an effective defect management process can enable improvements:
 * **Defect Distribution**: does a particular step in the user journey have a disproportionate level of bugs - does it require a review/re-engineering?
 * **Defect Rejection Rate**: a high level of rejected defects could indicate that those raising the issues would benefit from addtional training on the expected functionality
 * **Number of times a fix was rejected**: repeated fix rejections could indicate that those fixing the issues would benefit from addtional training on the expected functionality 
-* **Time taken to resolve**: see also [Mean Time to Restore](mean-time-to-restore.md)
+* **Time taken to resolve**: see also [Mean Time to Restore](../metrics/mean-time-to-restore.md)
 
 
 ---

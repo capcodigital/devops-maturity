@@ -54,9 +54,9 @@ Benefits:
 
 Domain driven design – approaches and principles
 
-* **Capture the domain model, in domain terms, through interactions with domain experts**. In other words, talk to the people in the businesses where you are solving problems and understand them from their point of view first and foremost. This is how you form the ubiquotous language of the domain and set the foundation for harmonious models.
+* **Capture the domain model, in domain terms, through interactions with domain experts**. In other words, talk to the people in the business where you are solving problems and understand them from their point of view first and foremost. This is how you form the ubiquotous language of the domain and set the foundation for harmonious models.
 * **Embed Domain terminology in the code**. This means naming things the way the domain expert would name them, including classes, methods, commands, and especially domain events. This is how you reflect the domain model in the code.
-* **Protect the domain knowledge from corruption by other domains, technical subdomains, etc**. If you find that your code is talking about two different things—e.g., the domain solution and the technical implementation—separate those components to keep the subdomains apart. This strategy tends to result in classes with single responsibilities and a terse, focused vocabulary. Put "translators" at the boundaries (anti-corruption layers) between subdomains to keep them from depending on each other’s structures unnecessarily, and also to prevent blurring of the meaning of domain terms.
+* **Protect the domain knowledge from corruption by other domains, technical subdomains, etc**. If you find that your code is talking about two different things—e.g. the domain solution and the technical implementation—separate those components to keep the subdomains apart. This strategy tends to result in classes with single responsibilities and a terse, focused vocabulary. Put "translators" at the boundaries (anti-corruption layers) between subdomains to keep them from depending on each other’s structures unnecessarily, and also to prevent blurring of the meaning of domain terms.
 
 
 ---

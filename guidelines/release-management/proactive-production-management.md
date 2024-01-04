@@ -15,7 +15,7 @@ To specifically address the uncertainty of distributed systems at scale, Chaos E
 
 The harder it is to disrupt the steady state, the more confidence we have in the behaviour of the system.  If a weakness is uncovered, we now have a target for improvement before that behaviour manifests in the system at large
 
-![Chaos Experiment](../../images/proactive-production-management-chaos.png)
+![Chaos Experiment](../../images/proactive-production-management-chaos.jpg)
 
 
 Chaos Engineering Principles

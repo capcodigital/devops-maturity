@@ -12,10 +12,10 @@ Here is a start on just some of the things that could be measured:
 
 * **Error messages being output to logs**: All error messages should indicate an issues that needs investigating. If you have an error message that indicates something else - is recording it an error the best approach? Schedule refactoring this into a future sprint's technical debt time.
 * **Response Time**: Having an accurate historical record of how long your application takes to service requests can be used to:
-** Highlight improvement/degredation of performance following implimentation of a new feature
-** Identify your application's peaks and troughs - allowing fine tuning of cloud resourcing (or similar)
-** Recognise performance bottlenecks
-** Demonstrate the need for investment in an improved hosting solution etc.
+    * Highlight improvement/degredation of performance following implimentation of a new feature
+    * Identify your application's peaks and troughs - allowing fine tuning of cloud resourcing (or similar)
+    * Recognise performance bottlenecks
+    * Demonstrate the need for investment in an improved hosting solution etc.
 * **CPU and Memory Usage**: If your application regularly uses most of its allocated resources, how can it be expected to cope with the inevitable spike?
 
 

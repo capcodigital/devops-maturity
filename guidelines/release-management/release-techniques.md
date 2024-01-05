@@ -97,7 +97,7 @@ High level approach to A/B Testing is as follows:
 Two or more variations (A, B, C, etc.) of the software are created, with each variation implementing a different version of the change or improvement. One variation, often referred to as "A", represents the current version (control group), while the others represent the proposed changes (treatment groups).
 1. **Random Assignment**: Users or sessions are randomly assigned to one of the variations. For example, in a web application, a random sample of users might see version A, while another random sample sees version B, and so on. Random assignment helps ensure that the test groups are representative and unbiased.
 1. **Data Collection**: Usage and performance data are collected for each variation. This data typically includes metrics related to user engagement, conversions, click-through rates, session duration, and other relevant key performance indicators (KPIs).
-1. **Analysis**: The data collected is analyzed to determine how each variation performed relative to the hypothesis. A variety of statistical methods can be used to assess the significance of differences between variations.
+1. **Analysis**: The data collected is analysed to determine how each variation performed relative to the hypothesis. A variety of statistical methods can be used to assess the significance of differences between variations.
 1. **Decision and Rollout**: Based on the analysis results, a decision is made about which variation performs better according to the established metrics. The winning variation is typically the one with the highest user engagement or the most positive impact on the selected KPIs.
 
 ![A/B Release](../../images/release-technique-ab-release.png)

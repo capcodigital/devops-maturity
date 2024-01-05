@@ -18,7 +18,7 @@ Configuration management helps engineering teams build robust and stable systems
 
 
 ## [Deployment Process](deployment-process.md)
-Having the right deployment process in place can help ensures that new features, updates, and fixes can be swiftly and reliably moved from development to production environments. There are two versions of deployment that are commonly encountered (Unique Version pattern, Co-existing Version pattern)
+Having the right deployment process in place can help ensures that new features, updates, and fixes can be swiftly and reliably moved from development to production environments. There are two versions of deployment that are commonly encountered: Unique Version pattern & Co-existing Version pattern.
 
 
 ## [Quality Gate Enforcement](quality-gate-enforcement.md)

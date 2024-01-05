@@ -4,7 +4,7 @@
 
 **FOSS scanning**
 
-FOSS scanning, or Free and Open Source Software scanning, refers to the process of analyzing software code to identify and track open-source components and their licenses. It is a crucial practice for organisations and developers who use open-source software in their projects. The primary goals of FOSS scanning are to ensure compliance with open-source licenses, manage potential legal risks, and enhance software security.
+FOSS scanning, or Free and Open Source Software scanning, refers to the process of analysing software code to identify and track open-source components and their licenses. It is a crucial practice for organisations and developers who use open-source software in their projects. The primary goals of FOSS scanning are to ensure compliance with open-source licenses, manage potential legal risks, and enhance software security.
 
 
 Here are some of the key advantages:
@@ -13,7 +13,7 @@ Here are some of the key advantages:
 1. **Risk Mitigation**: It helps manage legal and compliance risks associated with open-source software. By identifying potential licensing conflicts or violations, organisations can proactively address and mitigate these issues, reducing legal liabilities.
 1. **Security Enhancement**: FOSS scanning tools can detect vulnerabilities and security issues in open-source components. This information enables organisations to patch or update these components to enhance the overall security of their software.
 1. **Component Inventory**: It creates and maintains an inventory of all open-source components used in a project. This transparency helps with documentation, tracking, and version control, simplifying the management of software dependencies.
-1. **Remediation Guidance**: FOSS scanning often provides recommendations for addressing identified issues, such as replacing components with known vulnerabilities or updating to the latest versions. This guidance aids in maintaining software quality and security.
+1. **Remediation Guidance**: FOSS scanning often provides recommendations for addressing identified issues, such as replacing components containing known vulnerabilities or updating to the latest versions. This guidance aids in maintaining software quality and security.
 1. **Community Contribution**: By using FOSS scanning tools, organisations can contribute to the open-source community by reporting vulnerabilities, issues, or improvements, which benefits the wider ecosystem.
 
 
@@ -40,10 +40,10 @@ Some of the key advantages of adopting policy as code include:
 1. **Transparency**: Policy definitions in code are transparent and can be reviewed by stakeholders, promoting a clearer understanding of organisational policies.
 
 
-In summary, policy as code provides a powerful framework for automating and managing policies, improving consistency, security, and compliance, while also enhancing collaboration and reducing the potential for errors in policy enforcement. This approach is especially valuable in the fast-paced, complex, and regulated environments of modern IT and cybersecurity.
+In summary, PaC provides a powerful framework for automating and managing policies, improving consistency, security, and compliance, while also enhancing collaboration and reducing the potential for errors in policy enforcement. This approach is especially valuable in the fast-paced, complex, and regulated environments of modern IT and cybersecurity.
 
 
-An example of policy as code could be a policy that defines and enforces access control for a cloud-based infrastructure using a tool like AWS Identity and Access Management (IAM) in Amazon Web Services (AWS). In this example, we'll use a fictional scenario to demonstrate a policy expressed as code.
+An example of PaC could be a policy that defines and enforces access control for a cloud-based infrastructure using a tool like AWS Identity and Access Management (IAM) in Amazon Web Services (AWS). In this example, we'll use a fictional scenario to demonstrate a policy expressed as code.
 
 
 Scenario: Controlling access to AWS S3 buckets

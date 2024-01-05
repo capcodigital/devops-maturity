@@ -11,4 +11,4 @@ Implementing the right security strategy in software delivery accelerates flow b
 
 
 ## [Security Testing & Reporting](security-testing-and-reporting.md)
-Security testing and reporting are essential aspects of software delivery due to their critical roles in safeguarding sensitive data, preventing cyberattacks, ensuring regulatory compliance, and maintaining trust. These practices identify vulnerabilities that could lead to data breaches, costly downtime, legal liabilities, and reputational damage. Timely reporting allows for proactive mitigation, cost savings, and business continuity
+Security testing and reporting are essential aspects of software delivery due to their critical roles in safeguarding sensitive data, preventing cyberattacks, ensuring regulatory compliance, and maintaining trust. These practices identify vulnerabilities that could lead to data breaches, costly downtime, legal liabilities, and reputational damage. Timely reporting allows for proactive mitigation, cost savings, and business continuity.

@@ -7,7 +7,7 @@ Performance testing is a non-functional software testing technique that determin
 
 
 ## [Security Testing](security-testing.md)
-Detecting security vulnerabilities in an automated way is essential in a rapidly evolving digital world. There are various strategies and testing methods a team can employ to accomplish this. Teams who shift left with their security testing are able to detect and remediate vulnerabilities before it any code leaves the developers environment. Common security testing is SAST and DAST which test against sets of known vulnerabilities thus avoiding accidental exposure of sensitive information.
+Detecting security vulnerabilities in an automated way is essential in a rapidly evolving digital world. There are various strategies and testing methods a team can employ to accomplish this. Teams who shift left with their security testing are able to detect and remediate vulnerabilities before it leaves the developer's environment. Common security testing is SAST and DAST which test against sets of known vulnerabilities thus avoiding accidental exposure of sensitive information.
 
 
 ## [Testing Maturity](testing-maturity.md)

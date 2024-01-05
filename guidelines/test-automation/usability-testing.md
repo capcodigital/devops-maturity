@@ -28,7 +28,7 @@ it ('should pass aria-label to the inner button', inject(function() {
 
 It’s debatable whether a unit test should assert actual focus in the DOM, such as document.activeElement being an expected element. Unit testing tools frequently fail at the task, and you’ll end up chasing down bugs related to your test harness instead of writing useful test cases.
 
-You can try using [Simulant](https://www.npmjs.com/package/simulant), so long as keyboard focus is tested within a single unit, perhaps within an isolated component. In that case, go for it (and let me know which tools you end up using)! However, keyboard focus is often better tested in the integration realm, both because of ease in tooling and because a user’s focus frequently moves between multiple components (thus stepping outside the bounds of a single code unit).
+You can try using [Simulant](https://www.npmjs.com/package/simulant), so long as keyboard focus is tested within a single unit, perhaps within an isolated component. However, keyboard focus is often better tested in the integration realm, both because of ease in tooling and because a user’s focus frequently moves between multiple components (thus stepping outside the bounds of a single code unit).
 
 Instead of unit testing interactions and expecting a focused element, you can write unit tests that call related API methods with static inputs, such as state variables or HTML fragments. Then you can assert those methods were called and the state changed appropriately.
 

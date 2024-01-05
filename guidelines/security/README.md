@@ -2,7 +2,7 @@
 # Security
 
 
-## [Design Principles](design-principals.md)
+## [Design Principles](design-principles.md)
 Implementing the right security design principles provides a proactive approach to identifying and mitigating security risks. These principles reduce the likelihood of security breaches, safeguarding sensitive data, and preventing costly post-production fixes. Moreover, adherence to security design principles ensures compliance with regulatory requirements, fostering trust with users and minimising reputational risks. It also enables efficient incident response and supports scalability and adaptability as software evolves.
 
 

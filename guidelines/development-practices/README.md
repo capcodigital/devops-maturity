@@ -7,7 +7,7 @@ Trunk-based development is a required practice for continuous integration. If bu
 
 
 ## [Code Quality](code-quality.md)
-High-quality code is more reliable, easier to maintain, and less prone to bugs and defects. This reduces the time and effort required for debugging and troubleshooting, enabling developers to work more efficiently. Having the right code structure, standards and principles also help accelerate the code review process which positively impacts team efficiency and morale
+High-quality code is more reliable, easier to maintain, and less prone to bugs and defects. This reduces the time and effort required for debugging and troubleshooting, enabling developers to work more efficiently. Having the right code structure, standards and principles also help accelerate the code review process which positively impacts team efficiency and morale.
 
 
 ## [Defect Management](defect-management.md)
